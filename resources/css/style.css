@@ -12,7 +12,7 @@ h1 {
   color: white;
 }
 
-.header {
+.header, .designedIn {
   background-image: url('../images/the-flatiron-building.png');
 }
 
@@ -38,8 +38,7 @@ p {
   font-size: 14px;
 }
 
-.designedIn {
-  font-size: 23px;
+.designedIn h3 {
   color: white;
 }
 
